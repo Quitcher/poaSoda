@@ -1,7 +1,7 @@
 Let's make a game!
 
 name: Poa Soda the florida man
-author: 10³(9.6) and BigObrain........Florida man!!!!
+by: 10³(9.6) and BigObrain........Florida man!!!!
 desc: Poa Soda Simulator 9999 by 10³(9.6) and BigObrain
 version: 9999
 
