@@ -1,8 +1,41 @@
 Let's make a game!
-name: Poa Soda
-author: 10³(9.6) and BigObrain
-desc: Poa Soda Simulator 7 by 10³(9.6) and BigObrain
-version: 7
+
+name: Poa Soda the florida man
+author: 10³(9.6) and BigObrain........Florida man!!!!
+desc: Poa Soda Simulator 9999 by 10³(9.6) and BigObrain
+version: 9999
 
 Settings
-background:https://teamfortressnerd.files.wordpress.com/2014/04/steamworkshop_webupload_previewfile_189159515_preview.jpg
+background:http://www.tglaw.com.au/wp-content/uploads/2011/04/James-Daniel-924x1024.jpg
+
+Layout
+    use default
+
+Buttons
+    *poaSoda
+        name:Yield Soda
+        desc:PoaSoda™©
+        on click:anim icon wobble
+        on click:yield 1 PoaCola
+        on click:if (chance(50%)) yield 1 poabrain
+        icon:http://www.models-resource.com/resources/big_icons/12/11747.png
+        no text
+        class:bigButton hasFlares
+        icon class:shadowed
+        tooltip origin:bottom
+        tooltip class:red
+
+Resources
+    *poacola|poacolas
+        name:PoaCola|PoaCola™©
+        desc:this is POACOLA™©
+        icon:http://www.models-resource.com/resources/big_icons/12/11747.png
+        class:noBackground
+        show earned
+
+    *poabrain|poabrains
+        name:PoaBrain|PoaBrain™©
+        desc:this is POACOLA™©
+        icon:http://cater-choice.com/media/catalog/product/cache/1/image/1500x/9df78eab33525d08d6e5fb8d27136e95/d/r/drpeppercan330ml.png
+        class:noBackground
+        show earned
