@@ -1,0 +1,8 @@
+Let's make a game!
+name: Poa Soda
+author: 10³(9.6) and BigObrain
+desc: Poa Soda Simulator 7 by 10³(9.6) and BigObrain
+version: 7
+
+Settings
+background:https://teamfortressnerd.files.wordpress.com/2014/04/steamworkshop_webupload_previewfile_189159515_preview.jpg
